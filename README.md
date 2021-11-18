@@ -11,7 +11,7 @@ You can find me here :
 Hello, I am Mohd Jasir Khan !
 - 🔭 I am a Junior year(3rd) Computer Science Undergraduate from India!.
 - 🌱 I am currently a Software Engineering Intern at Hofars and working with their Backend Team.
-- 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering and Open Source!. 
+- 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering,Open Source,Cloud Native Technologies and DevOps!. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🗣️ I never turn down an interesting conversation about Interviews, life, OSS and novels!. 
 
