@@ -17,8 +17,11 @@ Hello, I am Mohd Jasir Khan !
 
  
 ## Experience 
+- [ConnectWise](https://www.connectwise.com/)! 
+    - I am Currently working with Connectwise in their Trial Experience Team.
+    - Working on GoLang,React.js,Cassandra and GraphQL tech stack.
  - [Hofars](https://hofars.com/)! 
-    - I am Currently working with Hofars as a Software Engineer Intern with their Backend Team.
+    - Worked with Hofars as a Software Engineer Intern with their Backend Team.
     - Working on Javascript tech stack to develop an ATS Module for HRMS Software.
  - [Layer5](https://layer5.io/) 
     - Currently a Community Member of Layer5 Organization and contribute to their open source repository in my free time.
