@@ -14,6 +14,7 @@ Hello, I am Mohd Jasir Khan !
 - 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering,Open Source,Cloud Native Technologies and DevOps!. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🗣️ I never turn down an interesting conversation about Interviews, life, OSS and novels!. 
+- 👩‍💻 You can ready my blog [here](https://hashnode.com/@kjasir23)!
 
  
 ## Experience 
