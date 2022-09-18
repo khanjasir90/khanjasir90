@@ -18,19 +18,19 @@ Hello, I am Mohd Jasir Khan !
 
  
 ## Experience 
-- [ConnectWise](https://www.connectwise.com/)! 
+- [ConnectWise](https://www.connectwise.com/)
     - Worked with their backend team to develop a Trail Experience Functionality for their Asio Platform.
     - Created a GraphQL API to authenticate the user for the Trial Process.
     - Created an API to initiate the Trial Process.
     - Tech Stack: GoLang,React.js,Cassandra and GraphQL tech stack.
 - Open Source Contributions
-    - [Keploy](https://github.com/keploy)!
-    - [feat: Implemented build checks using Github Actions for Go-SDK ](https://github.com/keploy/go-sdk/pull/125)!
-    - [feat(pre-commit-hook & contribution guid) : Added support for gofmt pre-commit hook & updated contribution.md file with all the steps to make the contribution.]       (https://github.com/keploy/go-sdk/pull/94)!
-    - [fix: bump crypto package to fix security vulnerability](https://github.com/keploy/go-sdk/pull/96)!
+    - [Keploy](https://github.com/keploy)
+      - [feat: Implemented build checks using Github Actions for Go-SDK ](https://github.com/keploy/go-sdk/pull/125)!
+      - [feat: pre-commit-hook & contribution guid : Added support for gofmt pre-commit hook & updated contribution.md file with all the steps to make the                      contribution.](https://github.com/keploy/go-sdk/pull/94)
+      - [fix: bump crypto package to fix security vulnerability](https://github.com/keploy/go-sdk/pull/96)!
     - [Mojaglobal](https://github.com/moja-global)!
-    - [feat: added endpoint to return .json for the input .tiff file](https://github.com/moja-global/FLINT.Cloud/pull/185)!
-    - [chore: moved get_config_templates, get_modules_cbm_config, get_pr… ](https://github.com/moja-global/FLINT.Cloud/pull/181)!
+      - [feat: added endpoint to return .json for the input .tiff file](https://github.com/moja-global/FLINT.Cloud/pull/185)!
+      - [chore: moved get_config_templates, get_modules_cbm_config, get_pr… ](https://github.com/moja-global/FLINT.Cloud/pull/181)!
 
 ## Tech Stack
 
