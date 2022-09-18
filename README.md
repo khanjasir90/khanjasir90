@@ -9,7 +9,7 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohd Jasir Khan !
-- 🔭 I am a Final year(3rd) Computer Science Undergraduate from India!.
+- 🔭 I am a Final year(4th) Computer Science Undergraduate from India!.
 - 🌱 I have prior Experience working as a Software Engineer Intern at [ConnectWise](https://www.connectwise.com/)!.
 - 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering,Open Source,Cloud Native Technologies and DevOps!. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
