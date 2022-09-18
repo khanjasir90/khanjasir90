@@ -9,8 +9,8 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohd Jasir Khan !
-- 🔭 I am a Junior year(3rd) Computer Science Undergraduate from India!.
-- 🌱 I am currently a Software Engineering Intern at Hofars and working with their Backend Team.
+- 🔭 I am a Final year(3rd) Computer Science Undergraduate from India!.
+- 🌱 I have prior Experience working as a Software Engineer Intern at [ConnectWise](https://www.connectwise.com/)!.
 - 👩‍💻 I find my technical interests in Problem Solving, Backend Development,Software Engineering,Open Source,Cloud Native Technologies and DevOps!. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🗣️ I never turn down an interesting conversation about Interviews, life, OSS and novels!. 
@@ -19,16 +19,19 @@ Hello, I am Mohd Jasir Khan !
  
 ## Experience 
 - [ConnectWise](https://www.connectwise.com/)! 
-    - I am Currently working with Connectwise in their Trial Experience Team.
-    - Working on GoLang,React.js,Cassandra and GraphQL tech stack.
- - [Hofars](https://hofars.com/)! 
-    - Worked with Hofars as a Software Engineer Intern with their Backend Team.
-    - Working on Javascript tech stack to develop an ATS Module for HRMS Software.
- - [Layer5](https://layer5.io/) 
-    - Currently a Community Member of Layer5 Organization and contribute to their open source repository in my free time.
+    - Worked with their backend team to develop a Trail Experience Functionality for their Asio Platform.
+    - Created a GraphQL API to authenticate the user for the Trial Process.
+    - Created an API to initiate the Trial Process.
+    - Tech Stack: GoLang,React.js,Cassandra and GraphQL tech stack.
+- Open Source Contributions
+    - [Keploy](https://github.com/keploy)!
+    - [feat: Implemented build checks using Github Actions for Go-SDK ](https://github.com/keploy/go-sdk/pull/125)!
+    - [feat(pre-commit-hook & contribution guid) : Added support for gofmt pre-commit hook & updated contribution.md file with all the steps to make the contribution.]       (https://github.com/keploy/go-sdk/pull/94)!
+    - [fix: bump crypto package to fix security vulnerability](https://github.com/keploy/go-sdk/pull/96)!
+    - [Mojaglobal](https://github.com/moja-global)!
+    - [feat: added endpoint to return .json for the input .tiff file](https://github.com/moja-global/FLINT.Cloud/pull/185)!
+    - [chore: moved get_config_templates, get_modules_cbm_config, get_pr… ](https://github.com/moja-global/FLINT.Cloud/pull/181)!
 
-
- 
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
